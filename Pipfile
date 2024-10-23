@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 black = "*"
+python-dotenv = "*"
+openai = "*"
 
 [dev-packages]
 
